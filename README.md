@@ -24,7 +24,7 @@ Let the world laugh at your ideas or your creation. It doesn't matter. The goal 
 * You need the willingness to learn
 * You absolutely need to have the courage to **Make** something, even if others think it's silly
 * You just need ideas. They don't have to be great
-* You don't need to be a programmer. This is open for everyone
+* You can be from any field
 * You don't care about what others think about your experiments
 
 <3

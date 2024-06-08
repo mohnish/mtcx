@@ -21,12 +21,12 @@ Let the world laugh at your ideas or your creation. It doesn't matter. The goal 
 ## Qualification to join
 
 * You need passion
-* You need to have knowledge in an area or the willingness to learn and not give up
+* You need the willingness to learn
 * You absolutely need to have the courage to **Make** something, even if others think it's silly
+* You just need ideas. They don't have to be great
 * You don't need to be a programmer. This is open for everyone
-* You don't need great ideas
 * You don't care about what others think about your experiments
 
 <3
 
-[MT](https://iam.mt)
+[MT](http://mohnish.github.io/mtcx/)

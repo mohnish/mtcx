@@ -18,7 +18,7 @@ The idea is to create a safe space for creative exploration. Your exploration ma
 
 It can be anything.
 
-The idea is to build, **Create**, **Build**, **Produce**, **Manufacture**, **Write**, **Knit**, **Hack**, **Build**, **Create**, **Compose**, **Invent**. **Make**.
+The idea is to build, **Create**, **Build**, **Produce**, **Manufacture**, **Write**, **Knit**, **Hack**, **Build**, **Compose**, **Invent**. **Make**.
 
 Let the world laugh at your ideas or your creation. It doesn't matter. The goal is to not stop **Making**.
 
